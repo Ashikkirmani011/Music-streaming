@@ -1,4 +1,4 @@
-# Astro Player
+# Paatalu
 
 A Web application built using React, Redux & Deezer API.
 
